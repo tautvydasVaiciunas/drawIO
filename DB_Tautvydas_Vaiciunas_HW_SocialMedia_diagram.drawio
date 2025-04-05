@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Puslapis-1" id="v5v4uFpCPzshZkrhh1YO">
     <mxGraphModel dx="2670" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-64" value="ID&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;int&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
           <mxGeometry y="28" width="220" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="nEx1TBivGr7TtxusMtfK-4" value="place_name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;varchar(40)" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="IdVh_bVHWKS3vvw1Y_2o-61">
+        <mxCell id="nEx1TBivGr7TtxusMtfK-4" value="place_name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;varchar(40)" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
           <mxGeometry y="44" width="220" height="16" as="geometry" />
         </mxCell>
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-244" value="city&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;varchar(30)" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
@@ -175,10 +175,10 @@
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-245" value="country&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;varchar(30)" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
           <mxGeometry y="76" width="220" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="nEx1TBivGr7TtxusMtfK-2" value="state &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;varchar(30)" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="IdVh_bVHWKS3vvw1Y_2o-61">
+        <mxCell id="nEx1TBivGr7TtxusMtfK-2" value="state &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;varchar(30)" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
           <mxGeometry y="92" width="220" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="nEx1TBivGr7TtxusMtfK-3" value="zip_code&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;int" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="IdVh_bVHWKS3vvw1Y_2o-61">
+        <mxCell id="nEx1TBivGr7TtxusMtfK-3" value="zip_code&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;int" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
           <mxGeometry y="108" width="220" height="16" as="geometry" />
         </mxCell>
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-65" value="" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-61" vertex="1">
@@ -461,7 +461,7 @@
         </mxCell>
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-139" value="0..*" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" parent="IdVh_bVHWKS3vvw1Y_2o-137" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-49" y="-65" as="offset" />
+            <mxPoint x="21" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-223" value="1" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10" parent="IdVh_bVHWKS3vvw1Y_2o-137" connectable="0" vertex="1">
@@ -604,7 +604,7 @@
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-178" value="Location_ID&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;int&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-173" vertex="1">
           <mxGeometry y="44" width="240" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="IdVh_bVHWKS3vvw1Y_2o-273" value="timestamp&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;datetime&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;int&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-173" vertex="1">
+        <mxCell id="IdVh_bVHWKS3vvw1Y_2o-273" value="timestamp&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;datetime&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-173" vertex="1">
           <mxGeometry y="60" width="240" height="16" as="geometry" />
         </mxCell>
         <mxCell id="IdVh_bVHWKS3vvw1Y_2o-274" value="is_Current &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;boolean&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;DEFAULT FALSE" style="html=1;align=left;spacing=0;spacingLeft=10;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="IdVh_bVHWKS3vvw1Y_2o-173" vertex="1">
